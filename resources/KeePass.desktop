@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=KeePass
+Exec=mono /usr/bin/KeePass/KeePass.exe
+Icon=/usr/bin/KeePass/KeePass_icon.png
+Categories=Other
+Type=Application
